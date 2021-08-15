@@ -41,6 +41,10 @@ var questionSet = [
   {
     question : "What Is My Favorite Car ?",
     answer : "Rolls Royce Phantom"
+  },
+  {
+    question : "What Is My Favorite Book ?",
+    answer : "The Psychology Of Money"
   },]
 
   for(i=0;i<questionSet.length;i++){
